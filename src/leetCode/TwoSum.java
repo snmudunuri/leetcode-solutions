@@ -5,7 +5,13 @@ import java.util.HashMap;
 public class TwoSum {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		/*
+		 * Explanation:
+		 * Loop through the array and subtract the current number from target
+		 * If the result in above operation exists in HashMap retrieve the value of that key
+		 * else store the current number as key and it's index as value.
+		 */
 		
 		int[] input = {2, 7, 11, 5};
 		int target = 9;
