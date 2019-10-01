@@ -9,6 +9,7 @@ public class MoveZeroes {
 		 * loop through the input array and if current integer is not zero then add current integer to input[index]
 		 * increment the index 
 		 * Now run a loop from the index until the input array length and add zeroes to the array
+		 * Return the input array
 		 */
 		int[] input = {0,1,0,3,12};
 		int[] output = moveZeroes(input);
