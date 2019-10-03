@@ -5,6 +5,7 @@ public class FindPeakElement {
 	public static void main(String[] args) {
 		/*
 		 * Explanation:
+		 * We can do this Binary Search
 		 * Take two indices left and right
 		 * Take mid index = left + (right-left)/2
 		 * Now loop through the array until left is less than right

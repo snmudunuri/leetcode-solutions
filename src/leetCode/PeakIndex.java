@@ -5,6 +5,7 @@ public class PeakIndex {
 	public static void main(String[] args) {
 		/*
 		 * Explanation:
+		 * We can do this binary search
 		 * Take two indices left and right
 		 * Take mid index using the left and right index
 		 * Now loop through the array until left is less than right
