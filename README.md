@@ -10,6 +10,7 @@
 * [First Unique Character](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FirstUniqueCharacter.java)
 * [Fizz Buzz](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FizzBuzz.java)
 * [Goat Latin](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/GoatLatin.java)
+* [Most Common Word](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MostCommonWord.java)
 * [Move Zeroes](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MoveZeroes.java)
 * [Peak Index](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PeakIndex.java)
 * [Plus One](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PlusOne.java)
