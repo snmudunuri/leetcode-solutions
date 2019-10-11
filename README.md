@@ -5,6 +5,7 @@
 * [Best Time To Buy and Sell Stock](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BestTimeToBuyStock.java)
 * [Contains Duplicate](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ContainsDuplicate.java)
 * [Contains Duplicate II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ContainsDuplicateII.java)
+* [Find All Duplicates In An Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FindAllDuplicatesInAnArray.java)
 * [Find Peak Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FindPeakElement.java)
 * [Find The Difference](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FindTheDifference.java)
 * [First Unique Character](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FirstUniqueCharacter.java)
