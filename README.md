@@ -17,7 +17,7 @@
 * [Power of Three](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PowerOfThree.java)
 * [Power of Two](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PowerOfTwo.java)
 * [Remove All Adjacent Duplicates In String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveAllAdjacentDuplicatesInString.java)
-* [Remove All Adjacent Duplicates In String II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveAllAdjacentDuplicatesInStringII.java)
+* [Remove All Adjacent Duplicates In String II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveAllAdjacentDuplicatesinStringII.java)
 * [Remove Duplicates From Sorted Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveDuplicatesFromSortedArray.java)
 * [Remove Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveElement.java)
 * [Reverse A String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseAString.java)
