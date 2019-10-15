@@ -13,6 +13,7 @@
 * [Fizz Buzz](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FizzBuzz.java)
 * [Goat Latin](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/GoatLatin.java)
 * [Longest Valid Parentheses](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestValidParentheses.java)
+* [Majority Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MajorityElement.java)
 * [Missing Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MissingNumber.java)
 * [Most Common Word](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MostCommonWord.java)
 * [Move Zeroes](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MoveZeroes.java)
