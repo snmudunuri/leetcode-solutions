@@ -29,6 +29,7 @@
 * [Remove Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveElement.java)
 * [Reverse A String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseAString.java)
 * [Reverse Integer](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseInteger.java)
+* [Reverse Linked List](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseLinkedList.java)
 * [Reverse Vowels of A String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseVowelsOfAString.java)
 * [Search In Rotated Sorted Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/SearchInRotatedSortedArray.java)
 * [Single Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/SingleNumber.java)
