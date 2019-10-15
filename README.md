@@ -27,6 +27,7 @@
 * [Remove All Adjacent Duplicates In String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveAllAdjacentDuplicatesInString.java)
 * [Remove All Adjacent Duplicates In String II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveAllAdjacentDuplicatesinStringII.java)
 * [Remove Duplicates From Sorted Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveDuplicatesFromSortedArray.java)
+* [Remove Duplicates from Sorted List II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveDuplicatesfromSortedListII.java)
 * [Remove Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveElement.java)
 * [Reverse A String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseAString.java)
 * [Reverse Integer](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseInteger.java)
