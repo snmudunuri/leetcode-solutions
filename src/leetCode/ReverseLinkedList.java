@@ -34,8 +34,7 @@ public class ReverseLinkedList {
 	
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
 		ReverseLinkedList test = new ReverseLinkedList();
 		int[] nums = { 1, 2,3,4 };
 		for (int i : nums) {
