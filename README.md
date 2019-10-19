@@ -17,6 +17,7 @@
 * [Longest Substring Without Repeating Characters](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestSubstringWithoutRepeatingCharacters.java)
 * [Longest Valid Parentheses](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestValidParentheses.java)
 * [Majority Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MajorityElement.java)
+* [Maximum Subarray](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MaximumSubarray.java)
 * [Merge Two Sorted Lists](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MergeTwoSortedLists.java)
 * [Missing Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MissingNumber.java)
 * [Most Common Word](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MostCommonWord.java)
