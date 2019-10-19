@@ -3,6 +3,7 @@
 * [Anagram](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/Anagram.java)
 * [Back Space String Compare](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BackSpaceStringCompare.java)
 * [Best Time To Buy and Sell Stock](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BestTimeToBuyStock.java)
+* [Climbing Stairs](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ClimbingStairs.java)
 * [Contains Duplicate](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ContainsDuplicate.java)
 * [Contains Duplicate II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ContainsDuplicateII.java)
 * [Duplicate Zeroes](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/DuplicateZeroes.java)
