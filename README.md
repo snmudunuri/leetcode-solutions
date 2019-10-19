@@ -15,6 +15,7 @@
 * [First Unique Character](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FirstUniqueCharacter.java)
 * [Fizz Buzz](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FizzBuzz.java)
 * [Goat Latin](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/GoatLatin.java)
+* [House Robber](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/HouseRobber.java)
 * [Longest Substring Without Repeating Characters](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestSubstringWithoutRepeatingCharacters.java)
 * [Longest Valid Parentheses](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestValidParentheses.java)
 * [Majority Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MajorityElement.java)
