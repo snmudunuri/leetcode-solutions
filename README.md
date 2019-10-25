@@ -37,6 +37,7 @@
 * [Remove Duplicates From Sorted Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveDuplicatesFromSortedArray.java)
 * [Remove Duplicates from Sorted List II](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveDuplicatesfromSortedListII.java)
 * [Remove Element](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveElement.java)
+* [Remove Outermost Parentheses](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/RemoveOutermostParentheses.java)
 * [Reverse A String](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseAString.java)
 * [Reverse Integer](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseInteger.java)
 * [Reverse Linked List](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ReverseLinkedList.java)
