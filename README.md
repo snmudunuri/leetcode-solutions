@@ -26,6 +26,7 @@
 * [Missing Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MissingNumber.java)
 * [Most Common Word](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MostCommonWord.java)
 * [Move Zeroes](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MoveZeroes.java)
+* [N-Repeated Element in Size 2N Array](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/NRepeatedElementinSize2NArray.java)
 * [Palindrome Linked List](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PalindromeLinkedList.java)
 * [Palindrome Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PalindromeNumber.java)
 * [Peak Index](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/PeakIndex.java)
