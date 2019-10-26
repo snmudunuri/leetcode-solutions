@@ -59,5 +59,6 @@
 * [Uncommon Words from Two Sentences](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/UncommonWordsfromTwoSentences.java)
 * [Unique Number of Occurrences](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/UniqueNumberofOccurrences.java)
 * [Univalued Binary Tree](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/UnivaluedBinaryTree.java)
+* [Validate Stack Sequences](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ValidateStackSequences.java)
 * [Valid Parentheses](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ValidParentheses.java)
 
