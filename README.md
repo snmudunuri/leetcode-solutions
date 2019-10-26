@@ -28,6 +28,7 @@
 * [Maximum Number of Balloons](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MaximumNumberofBalloons.java)
 * [Maximum Subarray](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MaximumSubarray.java)
 * [Merge Two Sorted Lists](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MergeTwoSortedLists.java)
+* [Minimum Add to Make Parentheses Valid](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MinimumAddtoMakeParenthesesValid.java)
 * [Missing Number](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MissingNumber.java)
 * [Most Common Word](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MostCommonWord.java)
 * [Move Zeroes](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/MoveZeroes.java)
