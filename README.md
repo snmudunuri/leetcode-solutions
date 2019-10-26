@@ -2,6 +2,7 @@
 ## Java solutions for Leet Code problems
 * [Anagram](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/Anagram.java)
 * [Back Space String Compare](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BackSpaceStringCompare.java)
+* [Baseball Game](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BaseballGame.java)
 * [Best Time To Buy and Sell Stock](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/BestTimeToBuyStock.java)
 * [Climbing Stairs](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ClimbingStairs.java)
 * [Contains Duplicate](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/ContainsDuplicate.java)
