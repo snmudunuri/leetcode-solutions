@@ -18,6 +18,7 @@
 * [Fizz Buzz](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/FizzBuzz.java)
 * [Goat Latin](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/GoatLatin.java)
 * [House Robber](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/HouseRobber.java)
+* [Intersection of Two Arrays](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/IntersectionofTwoArrays.java)
 * [Keyboard Row](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/KeyboardRow.java)
 * [Kth Smallest Element In a BST](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/KthSmallestElementInaBST.java)
 * [Longest Substring Without Repeating Characters](https://github.com/snmudunuri/leetcode-solutions/blob/master/src/leetCode/LongestSubstringWithoutRepeatingCharacters.java)
